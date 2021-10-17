@@ -1,0 +1,56 @@
+.title {
+  font-size: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(58, 58, 58);
+}
+
+.city {
+  background-color: #dbf3fd;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.weather {
+  background-image: linear-gradient(to right, rgb(2, 32, 77), black);
+  height: 300px;
+  width: 55%;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.details {
+  background-image: linear-gradient(to left, rgb(2, 32, 77), black);
+  height: 300px;
+  width: 40%;
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 3%;
+}
+
+.content-inner {
+  display: inline-block;
+  color: white;
+  width: 50%;
+}
+
+.right-side {
+  text-align: right;
+}
+
+.container-inner {
+  padding: 30px;
+}
+
+.primary {
+  font-size: 27px;
+}
+
+.secondary {
+  font-size: 17px;
+}
+
+.temp {
+  font-size: 90px;
+}
